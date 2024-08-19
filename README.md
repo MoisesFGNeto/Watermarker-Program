@@ -10,7 +10,8 @@ Create a folder named `/images` in your project directory and place all the imag
 
 ![Create /images folder](./screen-shots/image-folder.png)
 ***
-**Images inside the folder:**
+####Images inside the folder:
+
 ![Images in /images folder](./screen-shots/all-images-in-folder.png)
 ***
 #### Step - 2 (Optional): Add a Logo
@@ -42,11 +43,14 @@ A folder named `/water_marked_images` will be created to store the watermarked i
 
 
 With text only:
+
 <img src="./screen-shots/image-text.png" alt="Processing" width="300"/>
 ***
 
 With logo only:
+
 <img src="./screen-shots/image-only-logo.png" alt="Processing" width="300"/>
 ***
 With both logo and text:
+
 <img src="./screen-shots/image-logo-text.png" alt="Processing" width="300"/>
